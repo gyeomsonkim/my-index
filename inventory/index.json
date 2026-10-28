@@ -5,8 +5,32 @@
       "name": "gyeomsonkim"
     }
   ],
-  "generatedAt": "2026-10-28T06:01:23.717Z",
+  "generatedAt": "2026-10-28T19:47:34.474Z",
   "branches": [
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter1-2",
+      "branch": "gh-pages",
+      "defaultBranch": false,
+      "pushedAt": "2025-04-03T16:30:57Z",
+      "file": "front_5th_chapter1-2/gh-pages.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter1-2",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-04-03T16:30:57Z",
+      "file": "front_5th_chapter1-2/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front-5th-4-1_ktg",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-05-29T14:19:37Z",
+      "file": "front-5th-4-1_ktg/main.json"
+    },
     {
       "owner": "gyeomsonkim",
       "repo": "front_5th_chapter1-1",
@@ -41,30 +65,6 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-2",
-      "branch": "gh-pages",
-      "defaultBranch": false,
-      "pushedAt": "2025-04-03T16:30:57Z",
-      "file": "front_5th_chapter1-2/gh-pages.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-2",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-04-03T16:30:57Z",
-      "file": "front_5th_chapter1-2/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front-5th-4-1_ktg",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-05-29T14:19:37Z",
-      "file": "front-5th-4-1_ktg/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
       "repo": "front_5th_chapter2-1",
       "branch": "gh-pages",
       "defaultBranch": false,
@@ -86,14 +86,6 @@
       "defaultBranch": true,
       "pushedAt": "2025-04-24T15:42:31Z",
       "file": "front_5th_chapter2-2/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter2-3",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-05-02T00:55:56Z",
-      "file": "front_5th_chapter2-3/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -129,11 +121,19 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "load_generate_AI",
+      "repo": "front_5th_chapter2-3",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2025-11-18T12:14:47Z",
-      "file": "load_generate_AI/main.json"
+      "pushedAt": "2025-05-02T00:55:56Z",
+      "file": "front_5th_chapter2-3/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter4-2_basic",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-06-05T14:40:13Z",
+      "file": "front_5th_chapter4-2_basic/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -145,11 +145,11 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter4-2_basic",
+      "repo": "load_generate_AI",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2025-06-05T14:40:13Z",
-      "file": "front_5th_chapter4-2_basic/main.json"
+      "pushedAt": "2025-11-18T12:14:47Z",
+      "file": "load_generate_AI/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -230,6 +230,14 @@
       "defaultBranch": true,
       "pushedAt": "2024-12-09T14:47:05Z",
       "file": "MilkyWay_RN/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "my-index",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2026-10-28T06:01:24Z",
+      "file": "my-index/main.json"
     },
     {
       "owner": "gyeomsonkim",

@@ -1,0 +1,24 @@
+{
+  "owner": "gyeomsonkim",
+  "repo": "my-index",
+  "branch": "main",
+  "sha": "7f70476b6d72ea178bd638617254802ae124c88c",
+  "collectedAt": "2026-10-28T19:47:33.831Z",
+  "lockFiles": [],
+  "environment": {
+    "runtime": {},
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
+  },
+  "dependencies": []
+}
