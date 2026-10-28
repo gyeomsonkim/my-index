@@ -3,13 +3,27 @@
   "repo": "front_5th_chapter1-2",
   "branch": "main",
   "sha": "7989971339095c3a33290501ed3001e5c08ba32e",
-  "collectedAt": "2026-10-28T05:43:42.573Z",
+  "collectedAt": "2026-10-28T06:01:20.713Z",
   "lockFiles": [
     "pnpm-lock.yaml"
   ],
-  "runtime": {
-    "node (.nvmrc)": "22",
-    "node": ">=22"
+  "environment": {
+    "runtime": {
+      "node (.nvmrc)": "22",
+      "node": ">=22"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

@@ -3,10 +3,24 @@
   "repo": "front_5th_chapter1-3",
   "branch": "gh-pages",
   "sha": "b0b0429607a6d38e65053c968741edb4da6a6699",
-  "collectedAt": "2026-10-28T05:43:41.900Z",
+  "collectedAt": "2026-10-28T06:01:20.090Z",
   "lockFiles": [],
-  "runtime": {
-    "node (.nvmrc)": "22"
+  "environment": {
+    "runtime": {
+      "node (.nvmrc)": "22"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": []
 }

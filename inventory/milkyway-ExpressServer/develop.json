@@ -3,12 +3,26 @@
   "repo": "milkyway-ExpressServer",
   "branch": "develop",
   "sha": "9424d500e43016d9abd41b54846e5613cfd807b6",
-  "collectedAt": "2026-10-28T05:43:44.475Z",
+  "collectedAt": "2026-10-28T06:01:22.621Z",
   "lockFiles": [
     "package-lock.json"
   ],
-  "runtime": {
-    "express": "^4.19.2"
+  "environment": {
+    "runtime": {
+      "express": "^4.19.2"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

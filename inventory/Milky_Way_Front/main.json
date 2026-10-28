@@ -3,13 +3,27 @@
   "repo": "Milky_Way_Front",
   "branch": "main",
   "sha": "f9b07fe7128494ab9d279ac1531d3d05995776a5",
-  "collectedAt": "2026-10-28T05:43:45.457Z",
+  "collectedAt": "2026-10-28T06:01:23.716Z",
   "lockFiles": [
     "package-lock.json"
   ],
-  "runtime": {
-    "react": "^18.2.0",
-    "typescript": "^5.4.3"
+  "environment": {
+    "runtime": {
+      "react": "^18.2.0",
+      "typescript": "^5.4.3"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

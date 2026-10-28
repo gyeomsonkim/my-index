@@ -3,14 +3,28 @@
   "repo": "front-5th-4-1_ktg",
   "branch": "main",
   "sha": "64043bea02d536c4cee39c8b13d286a3b5d8f45d",
-  "collectedAt": "2026-10-28T05:43:41.985Z",
+  "collectedAt": "2026-10-28T06:01:20.792Z",
   "lockFiles": [
     "package-lock.json"
   ],
-  "runtime": {
-    "next": "15.3.2",
-    "react": "^19.0.0",
-    "typescript": "^5"
+  "environment": {
+    "runtime": {
+      "next": "15.3.2",
+      "react": "^19.0.0",
+      "typescript": "^5"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

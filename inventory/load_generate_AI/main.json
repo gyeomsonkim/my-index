@@ -3,16 +3,30 @@
   "repo": "load_generate_AI",
   "branch": "main",
   "sha": "ac656a4c9209ec2f7fa4e3c64b610ac1fe08d3f3",
-  "collectedAt": "2026-10-28T05:43:44.791Z",
+  "collectedAt": "2026-10-28T06:01:22.053Z",
   "lockFiles": [
     "docs-site/package-lock.json",
     "kiosk-client-react/package-lock.json",
     "pathfinding-server/requirements.txt"
   ],
-  "runtime": {
-    "next": "^15.1.0",
-    "react": "^19.2.0",
-    "typescript": "~5.9.3"
+  "environment": {
+    "runtime": {
+      "next": "^15.1.0",
+      "react": "^19.2.0",
+      "typescript": "~5.9.3"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

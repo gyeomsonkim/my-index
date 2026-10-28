@@ -3,14 +3,28 @@
   "repo": "front_5th_chapter3-2",
   "branch": "main",
   "sha": "a6f8744b1a19ea5ca44e4360efba0cd3f289a0af",
-  "collectedAt": "2026-10-28T05:43:43.280Z",
+  "collectedAt": "2026-10-28T06:01:21.702Z",
   "lockFiles": [
     "pnpm-lock.yaml"
   ],
-  "runtime": {
-    "react": "^18.3.1",
-    "express": "^4.19.2",
-    "typescript": "^5.2.2"
+  "environment": {
+    "runtime": {
+      "react": "^18.3.1",
+      "express": "^4.19.2",
+      "typescript": "^5.2.2"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

@@ -3,13 +3,27 @@
   "repo": "Member_Community_Board",
   "branch": "develop",
   "sha": "a47324d26c567638d0cd2cb5bfc30e224d0bef13",
-  "collectedAt": "2026-10-28T05:43:43.998Z",
+  "collectedAt": "2026-10-28T06:01:22.204Z",
   "lockFiles": [
     "package-lock.json",
     "src/main/front/package-lock.json"
   ],
-  "runtime": {
-    "react": "^18.2.0"
+  "environment": {
+    "runtime": {
+      "react": "^18.2.0"
+    },
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
   },
   "dependencies": [
     {

@@ -3,8 +3,22 @@
   "repo": "front_5th_chapter3-1",
   "branch": "main",
   "sha": "ca70a29fdb10a5e43ad6261ec13663a8cf1834e4",
-  "collectedAt": "2026-10-28T05:43:42.865Z",
+  "collectedAt": "2026-10-28T06:01:21.132Z",
   "lockFiles": [],
-  "runtime": {},
+  "environment": {
+    "runtime": {},
+    "deployment": {
+      "description": "",
+      "owner": "",
+      "status": "",
+      "host": "",
+      "os": "",
+      "node": "",
+      "docker": "",
+      "db": "",
+      "updatedAt": "",
+      "note": ""
+    }
+  },
   "dependencies": []
 }
