@@ -1,0 +1,12 @@
+{
+  "owner": "gyeomsonkim",
+  "repo": "front_5th_chapter1-2",
+  "branch": "gh-pages",
+  "sha": "86ec5387685fb5fc5653babcdcceaa345644d975",
+  "collectedAt": "2026-10-28T05:43:42.238Z",
+  "lockFiles": [],
+  "runtime": {
+    "node (.nvmrc)": "22"
+  },
+  "dependencies": []
+}
