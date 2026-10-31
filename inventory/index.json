@@ -5,7 +5,7 @@
       "name": "gyeomsonkim"
     }
   ],
-  "generatedAt": "2026-10-30T19:37:10.477Z",
+  "generatedAt": "2026-10-31T08:45:20.729Z",
   "branches": [
     {
       "owner": "gyeomsonkim",
@@ -14,22 +14,6 @@
       "defaultBranch": true,
       "pushedAt": "2025-05-29T14:19:37Z",
       "file": "front-5th-4-1_ktg/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-2",
-      "branch": "gh-pages",
-      "defaultBranch": false,
-      "pushedAt": "2025-04-03T16:30:57Z",
-      "file": "front_5th_chapter1-2/gh-pages.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-2",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-04-03T16:30:57Z",
-      "file": "front_5th_chapter1-2/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -46,6 +30,22 @@
       "defaultBranch": true,
       "pushedAt": "2025-04-12T13:58:42Z",
       "file": "front_5th_chapter1-3/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter1-2",
+      "branch": "gh-pages",
+      "defaultBranch": false,
+      "pushedAt": "2025-04-03T16:30:57Z",
+      "file": "front_5th_chapter1-2/gh-pages.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter1-2",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-04-03T16:30:57Z",
+      "file": "front_5th_chapter1-2/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -81,19 +81,19 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter2-2",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-04-24T15:42:31Z",
-      "file": "front_5th_chapter2-2/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
       "repo": "front_5th_chapter2-3",
       "branch": "main",
       "defaultBranch": true,
       "pushedAt": "2025-05-02T00:55:56Z",
       "file": "front_5th_chapter2-3/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter2-2",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-04-24T15:42:31Z",
+      "file": "front_5th_chapter2-2/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -252,7 +252,7 @@
       "repo": "my-index",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2026-10-30T08:53:46Z",
+      "pushedAt": "2026-10-30T19:37:12Z",
       "file": "my-index/main.json"
     }
   ]
