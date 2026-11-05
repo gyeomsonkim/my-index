@@ -3,7 +3,7 @@
   "repo": "Member_Community_Board",
   "branch": "front-back-connect",
   "sha": "2d778267e87668e8c7e0c5a546c734875ee447ad",
-  "collectedAt": "2026-11-05T09:46:40.174Z",
+  "collectedAt": "2026-11-05T21:11:14.157Z",
   "lockFiles": [
     "package-lock.json",
     "src/main/front/package-lock.json"
