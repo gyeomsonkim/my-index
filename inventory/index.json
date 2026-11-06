@@ -5,31 +5,23 @@
       "name": "gyeomsonkim"
     }
   ],
-  "generatedAt": "2026-11-05T21:11:16.398Z",
+  "generatedAt": "2026-11-06T09:44:57.305Z",
   "branches": [
     {
       "owner": "gyeomsonkim",
-      "repo": "front-5th-4-1_ktg",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-05-29T14:19:37Z",
-      "file": "front-5th-4-1_ktg/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-1",
+      "repo": "front_5th_chapter1-3",
       "branch": "gh-pages",
       "defaultBranch": false,
-      "pushedAt": "2025-03-28T05:45:51Z",
-      "file": "front_5th_chapter1-1/gh-pages.json"
+      "pushedAt": "2025-04-12T13:58:42Z",
+      "file": "front_5th_chapter1-3/gh-pages.json"
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-1",
+      "repo": "front_5th_chapter1-3",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2025-03-28T05:45:51Z",
-      "file": "front_5th_chapter1-1/main.json"
+      "pushedAt": "2025-04-12T13:58:42Z",
+      "file": "front_5th_chapter1-3/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -49,19 +41,19 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-3",
+      "repo": "front_5th_chapter1-1",
       "branch": "gh-pages",
       "defaultBranch": false,
-      "pushedAt": "2025-04-12T13:58:42Z",
-      "file": "front_5th_chapter1-3/gh-pages.json"
+      "pushedAt": "2025-03-28T05:45:51Z",
+      "file": "front_5th_chapter1-1/gh-pages.json"
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter1-3",
+      "repo": "front_5th_chapter1-1",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2025-04-12T13:58:42Z",
-      "file": "front_5th_chapter1-3/main.json"
+      "pushedAt": "2025-03-28T05:45:51Z",
+      "file": "front_5th_chapter1-1/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -78,6 +70,14 @@
       "defaultBranch": true,
       "pushedAt": "2025-04-18T16:11:33Z",
       "file": "front_5th_chapter2-1/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front-5th-4-1_ktg",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-05-29T14:19:37Z",
+      "file": "front-5th-4-1_ktg/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -129,19 +129,19 @@
     },
     {
       "owner": "gyeomsonkim",
-      "repo": "front_5th_chapter3-2",
-      "branch": "main",
-      "defaultBranch": true,
-      "pushedAt": "2025-05-20T11:02:24Z",
-      "file": "front_5th_chapter3-2/main.json"
-    },
-    {
-      "owner": "gyeomsonkim",
       "repo": "front_5th_chapter4-2_basic",
       "branch": "main",
       "defaultBranch": true,
       "pushedAt": "2025-06-05T14:40:13Z",
       "file": "front_5th_chapter4-2_basic/main.json"
+    },
+    {
+      "owner": "gyeomsonkim",
+      "repo": "front_5th_chapter3-2",
+      "branch": "main",
+      "defaultBranch": true,
+      "pushedAt": "2025-05-20T11:02:24Z",
+      "file": "front_5th_chapter3-2/main.json"
     },
     {
       "owner": "gyeomsonkim",
@@ -252,7 +252,7 @@
       "repo": "my-index",
       "branch": "main",
       "defaultBranch": true,
-      "pushedAt": "2026-11-05T09:46:43Z",
+      "pushedAt": "2026-11-05T21:11:17Z",
       "file": "my-index/main.json"
     }
   ]
