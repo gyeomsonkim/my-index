@@ -1,6 +1,6 @@
 # inventory
 
-갱신: 2026-11-15T09:48:35.384Z
+갱신: 2026-11-15T19:55:14.763Z
 대상: user:gyeomsonkim
 레포 16개 · 브랜치 31개 · 배포 환경 작성됨 0개
 
@@ -22,21 +22,21 @@
 | front_5th_chapter3-1 | main | ✓ | 2025-05-15 |  |
 | front_5th_chapter3-1 | medium |  | 2025-05-15 |  |
 | front_5th_chapter3-2 | main | ✓ | 2025-05-20 |  |
+| front_5th_chapter4-2_basic | main | ✓ | 2025-06-05 |  |
+| load_generate_AI | main | ✓ | 2025-11-18 |  |
 | Member_Community_Board | develop |  | 2024-02-05 |  |
 | Member_Community_Board | front-back-connect |  | 2024-02-05 |  |
 | Member_Community_Board | main | ✓ | 2024-02-05 |  |
 | Member_Community_Board | view |  | 2024-02-05 |  |
-| front_5th_chapter4-2_basic | main | ✓ | 2025-06-05 |  |
-| load_generate_AI | main | ✓ | 2025-11-18 |  |
 | milkyway-ExpressServer | develop |  | 2024-06-18 |  |
 | milkyway-ExpressServer | feautre/ktg/middleware |  | 2024-06-18 |  |
 | milkyway-ExpressServer | main | ✓ | 2024-06-18 |  |
-| Milky_Way_Front | develop |  | 2024-10-30 |  |
-| Milky_Way_Front | main | ✓ | 2024-10-30 |  |
 | MilkyWay_RN | develop |  | 2024-12-09 |  |
 | MilkyWay_RN | develop-layout |  | 2024-12-09 |  |
 | MilkyWay_RN | main | ✓ | 2024-12-09 |  |
-| my-index | main | ✓ | 2026-11-14 |  |
+| Milky_Way_Front | develop |  | 2024-10-30 |  |
+| Milky_Way_Front | main | ✓ | 2024-10-30 |  |
+| my-index | main | ✓ | 2026-11-15 |  |
 
 ## 파일 구조
 
