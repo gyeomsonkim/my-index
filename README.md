@@ -1,6 +1,6 @@
 # inventory
 
-갱신: 2026-11-16T10:05:33.615Z
+갱신: 2026-11-16T23:29:00.729Z
 대상: user:gyeomsonkim
 레포 16개 · 브랜치 31개 · 배포 환경 작성됨 0개
 
@@ -15,11 +15,11 @@
 | front_5th_chapter1-1 | main | ✓ | 2025-03-28 |  |
 | front_5th_chapter2-1 | gh-pages |  | 2025-04-18 |  |
 | front_5th_chapter2-1 | main | ✓ | 2025-04-18 |  |
+| front_5th_chapter2-3 | main | ✓ | 2025-05-02 |  |
 | front_5th_chapter3-1 | easy |  | 2025-05-15 |  |
 | front_5th_chapter3-1 | hard |  | 2025-05-15 |  |
 | front_5th_chapter3-1 | main | ✓ | 2025-05-15 |  |
 | front_5th_chapter3-1 | medium |  | 2025-05-15 |  |
-| front_5th_chapter2-3 | main | ✓ | 2025-05-02 |  |
 | front_5th_chapter2-2 | main | ✓ | 2025-04-24 |  |
 | front_5th_chapter3-2 | main | ✓ | 2025-05-20 |  |
 | load_generate_AI | main | ✓ | 2025-11-18 |  |
@@ -34,9 +34,9 @@
 | MilkyWay_RN | develop |  | 2024-12-09 |  |
 | MilkyWay_RN | develop-layout |  | 2024-12-09 |  |
 | MilkyWay_RN | main | ✓ | 2024-12-09 |  |
-| my-index | main | ✓ | 2026-11-15 |  |
 | Milky_Way_Front | develop |  | 2024-10-30 |  |
 | Milky_Way_Front | main | ✓ | 2024-10-30 |  |
+| my-index | main | ✓ | 2026-11-16 |  |
 
 ## 파일 구조
 
