@@ -3,7 +3,7 @@
   "repo": "onyx",
   "branch": "main",
   "sha": "b21a01885f827d3c6507a8dcd412b9f123f6d16b",
-  "collectedAt": "2026-11-20T10:22:05.039Z",
+  "collectedAt": "2026-11-20T21:56:11.656Z",
   "lockFiles": [
     "deployment/craft-runtime/requirements.txt"
   ],

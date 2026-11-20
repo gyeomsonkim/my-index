@@ -1,6 +1,6 @@
 # inventory
 
-갱신: 2026-11-20T10:22:05.043Z
+갱신: 2026-11-20T21:56:11.658Z
 대상: user:gyeomsonkim
 레포 17개 · 브랜치 32개 · 배포 환경 작성됨 0개
 
@@ -36,7 +36,7 @@
 | MilkyWay_RN | main | ✓ | 2024-12-09 |  |
 | Milky_Way_Front | develop |  | 2024-10-30 |  |
 | Milky_Way_Front | main | ✓ | 2024-10-30 |  |
-| my-index | main | ✓ | 2026-11-19 |  |
+| my-index | main | ✓ | 2026-11-20 |  |
 | onyx | main | ✓ | 2026-11-18 |  |
 
 ## 파일 구조
