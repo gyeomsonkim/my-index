@@ -1,18 +1,18 @@
 # inventory
 
-갱신: 2026-11-19T22:23:50.590Z
+갱신: 2026-11-20T10:22:05.043Z
 대상: user:gyeomsonkim
 레포 17개 · 브랜치 32개 · 배포 환경 작성됨 0개
 
 | 레포 | 브랜치 | 기본 | 마지막 push | 배포 환경 |
 |---|---|---|---|---|
 | front-5th-4-1_ktg | main | ✓ | 2025-05-29 |  |
-| front_5th_chapter1-3 | gh-pages |  | 2025-04-12 |  |
-| front_5th_chapter1-3 | main | ✓ | 2025-04-12 |  |
 | front_5th_chapter1-1 | gh-pages |  | 2025-03-28 |  |
 | front_5th_chapter1-1 | main | ✓ | 2025-03-28 |  |
 | front_5th_chapter1-2 | gh-pages |  | 2025-04-03 |  |
 | front_5th_chapter1-2 | main | ✓ | 2025-04-03 |  |
+| front_5th_chapter1-3 | gh-pages |  | 2025-04-12 |  |
+| front_5th_chapter1-3 | main | ✓ | 2025-04-12 |  |
 | front_5th_chapter2-1 | gh-pages |  | 2025-04-18 |  |
 | front_5th_chapter2-1 | main | ✓ | 2025-04-18 |  |
 | front_5th_chapter2-2 | main | ✓ | 2025-04-24 |  |
