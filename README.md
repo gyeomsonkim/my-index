@@ -1,6 +1,6 @@
 # inventory
 
-갱신: 2026-11-25T11:38:50.598Z
+갱신: 2026-11-25T23:15:43.201Z
 대상: user:gyeomsonkim
 레포 17개 · 브랜치 32개 · 배포 환경 작성됨 0개
 
@@ -15,28 +15,28 @@
 | front_5th_chapter1-2 | main | ✓ | 2025-04-03 |  |
 | front_5th_chapter2-1 | gh-pages |  | 2025-04-18 |  |
 | front_5th_chapter2-1 | main | ✓ | 2025-04-18 |  |
+| front_5th_chapter2-2 | main | ✓ | 2025-04-24 |  |
+| front_5th_chapter2-3 | main | ✓ | 2025-05-02 |  |
 | front_5th_chapter3-1 | easy |  | 2025-05-15 |  |
 | front_5th_chapter3-1 | hard |  | 2025-05-15 |  |
 | front_5th_chapter3-1 | main | ✓ | 2025-05-15 |  |
 | front_5th_chapter3-1 | medium |  | 2025-05-15 |  |
-| front_5th_chapter2-3 | main | ✓ | 2025-05-02 |  |
-| front_5th_chapter2-2 | main | ✓ | 2025-04-24 |  |
-| front_5th_chapter3-2 | main | ✓ | 2025-05-20 |  |
-| load_generate_AI | main | ✓ | 2025-11-18 |  |
 | front_5th_chapter4-2_basic | main | ✓ | 2025-06-05 |  |
+| load_generate_AI | main | ✓ | 2025-11-18 |  |
+| front_5th_chapter3-2 | main | ✓ | 2025-05-20 |  |
 | Member_Community_Board | develop |  | 2024-02-05 |  |
 | Member_Community_Board | front-back-connect |  | 2024-02-05 |  |
 | Member_Community_Board | main | ✓ | 2024-02-05 |  |
 | Member_Community_Board | view |  | 2024-02-05 |  |
-| milkyway-ExpressServer | develop |  | 2024-06-18 |  |
-| milkyway-ExpressServer | feautre/ktg/middleware |  | 2024-06-18 |  |
-| milkyway-ExpressServer | main | ✓ | 2024-06-18 |  |
-| Milky_Way_Front | develop |  | 2024-10-30 |  |
-| Milky_Way_Front | main | ✓ | 2024-10-30 |  |
 | MilkyWay_RN | develop |  | 2024-12-09 |  |
 | MilkyWay_RN | develop-layout |  | 2024-12-09 |  |
 | MilkyWay_RN | main | ✓ | 2024-12-09 |  |
-| my-index | main | ✓ | 2026-11-24 |  |
+| Milky_Way_Front | develop |  | 2024-10-30 |  |
+| Milky_Way_Front | main | ✓ | 2024-10-30 |  |
+| milkyway-ExpressServer | develop |  | 2024-06-18 |  |
+| milkyway-ExpressServer | feautre/ktg/middleware |  | 2024-06-18 |  |
+| milkyway-ExpressServer | main | ✓ | 2024-06-18 |  |
+| my-index | main | ✓ | 2026-11-25 |  |
 | onyx | main | ✓ | 2026-11-18 |  |
 
 ## 파일 구조
